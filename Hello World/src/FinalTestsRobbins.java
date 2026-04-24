@@ -1,3 +1,13 @@
+/*Class  FinalTestsRobbins
+ * this class is a test class 
+ * @author James Robbins
+ * @version 1.0
+ * @since 1.0
+ 
+ *	I used chatgpt to help me write these tests 
+ * 
+*/
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.ArrayList;

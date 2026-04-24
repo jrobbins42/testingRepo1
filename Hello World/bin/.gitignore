@@ -1,6 +1,14 @@
+/.classpath
+/.idea/
+/.project
+/.vs/
 /AppGUI.class
 /FinalDriverRobbins.class
-/FinalTestsRobbins.class
 /GroceryOptimizer.class
+/README.md
 /StoreTrip.class
+/com/
+/out/
+/pullRequestWoodburn
+/testingRepo.iml
 /Hello World/

@@ -1,3 +1,13 @@
+/*Class AppGUI
+ * this class implements the GroceryOptimizer portion of my program  
+ * @author James Robbins
+ * @version 1.0
+ * @since 1.0
+ 
+ *I used chatgpt to help write this class
+ * No Cheating
+ * 
+*/
 import java.util.*;
 
 public class GroceryOptimizer {
